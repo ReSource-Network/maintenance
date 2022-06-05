@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.resource.finance
+
+# Sitemaps
+Sitemap: https://www.resource.finance/sitemap.xml
